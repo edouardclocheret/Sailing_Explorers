@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="resources/shaders/default.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/default.frag</file>
+    <file alias="resources/shaders/default.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/default.vert</file>
+    <file alias="resources/shaders/instanced_tree.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/instanced_tree.vert</file>
+    <file alias="resources/shaders/texture.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/texture.frag</file>
+    <file alias="resources/shaders/texture.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/texture.vert</file>
+    <file alias="resources/shaders/sea.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/sea.frag</file>
+    <file alias="resources/shaders/sea.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/sea.vert</file>
+    <file alias="resources/shaders/velocity.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/velocity.frag</file>
+    <file alias="resources/shaders/velocity.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/velocity.vert</file>
+    <file alias="resources/shaders/motion_blur.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/motion_blur.frag</file>
+    <file alias="resources/shaders/motion_blur.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/motion_blur.vert</file>
+    <file alias="resources/shaders/treasure.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/treasure.frag</file>
+    <file alias="resources/shaders/treasure.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/treasure.vert</file>
+    <file alias="resources/shaders/postprocess.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/postprocess.frag</file>
+    <file alias="resources/shaders/postprocess.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/postprocess.vert</file>
+    <file alias="resources/shaders/depth.frag">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/depth.frag</file>
+    <file alias="resources/shaders/depth.vert">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/shaders/depth.vert</file>
+    <file alias="resources/textures/water-normal-texture-3.jpg">/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/resources/textures/water-normal-texture-3.jpg</file>
+  </qresource>
+</RCC>
+

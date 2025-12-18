@@ -1,0 +1,130 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "glm",
+					"jsonFile" : "directory-glm-Release-2bef2a2728e6bac3f360.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "glm"
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1
+					],
+					"name" : "saling_explorers",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticGLEW::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticGLEW-Release-a5df544676fa783a288a.json",
+					"name" : "StaticGLEW",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticGLEW_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticGLEW_autogen-Release-45bcdb34a373cf238c5d.json",
+					"name" : "StaticGLEW_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "StaticGLEW_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-StaticGLEW_autogen_timestamp_deps-Release-ec299a01de5c465de223.json",
+					"name" : "StaticGLEW_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saling_explorers::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saling_explorers-Release-52b50586cdd66ff3629f.json",
+					"name" : "saling_explorers",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saling_explorers_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saling_explorers_autogen-Release-0ddffa84c6d0a74c6577.json",
+					"name" : "saling_explorers_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saling_explorers_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saling_explorers_autogen_timestamp_deps-Release-0569c2b75254c0f01999.json",
+					"name" : "saling_explorers_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "saling_explorers_other_files::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-saling_explorers_other_files-Release-4ee838725d9ea2e49b5e.json",
+					"name" : "saling_explorers_other_files",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/build/build-saling_explorers-Qt_6_9_2_for_macOS-Release",
+		"source" : "/Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

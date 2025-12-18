@@ -1,0 +1,4 @@
+set(__QT_DEPLOY_TARGET_StaticGLEW_FILE /Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/build/build-saling_explorers-Qt_6_9_2_for_macOS-Debug/libStaticGLEW.a)
+set(__QT_DEPLOY_TARGET_StaticGLEW_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_saling_explorers_FILE /Users/edouard/Documents/US/Brown/CSCI_1230/sailing-explorers/build/build-saling_explorers-Qt_6_9_2_for_macOS-Debug/saling_explorers)
+set(__QT_DEPLOY_TARGET_saling_explorers_TYPE EXECUTABLE)
